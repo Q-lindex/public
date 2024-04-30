@@ -1,0 +1,39 @@
+##########################################################################
+#                        Qlindex Ltd Proprietary License                 #
+##########################################################################
+# Copyright (c) 2024, Qlindex Ltd
+# All rights reserved.
+This license (the "License") is a legal agreement between you and Qlindex Ltd for the use of software and associated documentation (the "Software"). By using the Software, you agree to be bound by the terms of this License. If you do not agree to the terms of this License, do not use the Software.
+
+## 1. Definitions
+- "Software" refers to the copyrighted code, associated media, printed materials, and "online" or electronic documentation covered by this license.
+- "Proprietary Information" includes all information disclosed by Qlindex Ltd that is marked as proprietary or confidential or reasonably should be understood to be confidential.
+
+## 2. Permitted Use
+You are allowed to use, copy, and modify the contents of this repository for your use within the organization Qlindex Ltd, subject to the following conditions:
+
+### 2.1 Distribution
+Redistribution of source code, binaries, or any other form of the materials contained in this repository outside of Qlindex Ltd is strictly prohibited unless provided with express written permission from Qlindex Ltd.
+
+### 2.2 Copyright and Ownership
+All intellectual property rights, including copyright, patents, trademarks, and trade secrets, in and to the software are owned by Qlindex Ltd. No license or right to use, copy, distribute, modify, or transfer the software or any part thereof, or any intellectual property right therein, is granted except by express written agreement signed by an authorized representative of Qlindex Ltd.
+
+## 3. No Warranty
+The Software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall Qlindex Ltd be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+
+## 4. Limitation of Liability
+In no event shall Qlindex Ltd be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use of this software, even if advised of the possibility of such damage.
+
+## 5. Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of Ireland, without regard to its conflict of law principles.
+
+## 6. Termination
+This license is effective until terminated. Your rights under this license will terminate automatically without notice from Qlindex Ltd if you fail to comply with any term(s) of this license. Upon termination, you shall cease all use of the Software and destroy all copies, full or partial, of the Software.
+
+## 7. Contact Information
+For more information or to request permission for use, please contact:
+
+Legal Department
+Qlindex Ltd
+13 Adelaide Road, Dublin 2, Ireland
+Email: info@qlindex.com
